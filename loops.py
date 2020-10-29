@@ -1,5 +1,6 @@
 #loops
 #for loop
+
 """syntax
 variable= [......]
 for i in variable name:  #here i is a variable indicates a elements of variable ones at a time as its value starts
@@ -7,9 +8,9 @@ for i in variable name:  #here i is a variable indicates a elements of variable 
 
 for i in variable/list/:     #we can give whole variable here directly
    statements
-
-
 """
+
+
 """l1=[["pendrive",1],["harddrive",2],["antivirus",1],["ram",8],["rom",2]]
  print(l1)    #this prints in form of list
 print(l1[0]) #prints separetly
@@ -35,6 +36,7 @@ for keys in d2:
 for item in list:
     if int(item).isnumeric() and item>6:
         print(item)"""
+
 #while loop
 """syntax
 initilise value for variable
