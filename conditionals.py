@@ -167,8 +167,8 @@ def genStrings(input):             # created or declared a function named "genSt
      return single,multiple     # return statement used to return vlaues of single and multiple
 
 
-input = "oggyanndcockroaches"
+input = "oggyanndcockroaaches"
 v1, v2 = genStrings(input)
                  # the given inmput is passed to function by calling it and stored in v1,v2
-print(''.join(v1))    # prints the value by joining all the values of v1
-print(''.join(v2))     # prints the value by joining all the values of v2
+print(''.join(v1))    #prints the value by joining all the values of v1
+print(''.join(v2))     #prints the value by joining all the values of v2
